@@ -2,8 +2,8 @@
   "name": "healthjobs-backend",
   "version": "1.0.0",
   "description": "Cloudflare Turnstile Verification API",
-  "main": "api/verify-turnstile.js",
+  "main": "api/server.js",
   "scripts": {
-    "start": "node api/verify-turnstile.js"
+    "start": "node api/server.js"
   }
 }
